@@ -74,7 +74,7 @@ const HowToBuy = () => {
         </OrderCard>
         <OrderCard
           order={<span className="text-white">4</span>}
-          title={"you're Holder trouver un nom pour les appler mes poupette!‍"}
+          title={"🤑 If You’re Not Crying, You’re Not HODLing Hard Enough."}
           style={"rotate-2"}
         >
           <span>
