@@ -31,7 +31,7 @@ const About = () => {
         <div className="mb-4 text-center">  {/* Réduit my-7 à mb-4 */}
           <h2 className="font-stopbuck text-4xl text-duis text-shadow my-20 mt-20">🌕 About Us - LittleX 🚀</h2>
           <h3 className="font-stopbuck text-2xl italic text-black mt-6">  {/* Réduit mt-14 à mt-6 */}
-            {`Welcome to LittleX, the wildest memecoin on Solana! 🤪 Inspired by the youngest Musk, LittleX is here to dominate the meme game. Trump’s bowing down to the meme lord, the internet’s losing its mind, and we’re all here for it!
+            {`Welcome to LittleX, the wildest memecoin on Solana! 🤪 Inspired by the x Musk, LittleX is here to dominate the meme game. Trump’s bowing down to the meme lord, the internet’s losing its mind, and we’re all here for it!
 
 We’re talking 1000x potential, degens only, LFG vibes, and HODLers dancing to the moon. Forget the FUD, forget the rules. This is LittleX. We’re breaking the internet. Are you in, degen? 🚀🔥
 
