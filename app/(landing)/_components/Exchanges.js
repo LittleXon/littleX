@@ -5,7 +5,7 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "PumpFun",
-    link: "#",
+    link: "https://pump.fun/coin/FN15fXqUPbWBU3h5yzx8ZrSL6THKZuSgWW5UcD89pump",
   },
 ];
 
